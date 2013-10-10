@@ -1,4 +1,8 @@
 
+
+//find out how many jumps it takes the frog to get from point X to point Y
+//based on its jump interval D
+//it must at least cross or land on Y on the last jump
 public class FrogJump {
 	public static void main(String[] args)
 	{
